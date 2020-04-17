@@ -20,6 +20,7 @@ description: A look into my life as a Data Science Student
 
 # List of links in the navigation bar
 navbar-links:
+  Example: "/example" 
   About Me: "http://linkedincom/edwinapalmer"
   Resources:
     - Lambda School: "http://lambdaschool.com"
